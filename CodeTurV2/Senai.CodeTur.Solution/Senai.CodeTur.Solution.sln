@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Dominio", "1 - Dominio", "{31B5F18A-E794-4ACE-99CF-C42BE444F3F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Infra.Data", "2 - Infra.Data", "{FFEF8C2A-CAA1-4242-8B31-3DAE90B8D0AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Servico", "3 - Servico", "{2E37E5E4-20B5-4660-BD7E-C53D5E5AE04A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Apresentacao", "4 - Apresentacao", "{49977C28-888B-46B7-A211-8CD670B28527}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Testes", "5 - Testes", "{55CCC16C-2D98-4048-8CBD-A480ADE92E1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Dominio", "Senai.CodeTur.Dominio\Senai.CodeTur.Dominio.csproj", "{1F22D257-AAA8-488C-873F-2761768690CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Infra.Data", "Senai.CodeTur.Infra.Data\Senai.CodeTur.Infra.Data.csproj", "{DAC65468-2041-4C15-AD0C-8AFF89915C86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Servico", "Senai.CodeTur.Servico\Senai.CodeTur.Servico.csproj", "{591FBA92-FF79-4308-9AF4-F0BF4A346901}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Senai.CodeTur.Teste.XUnit", "Senai.CodeTur.Teste.XUnit\Senai.CodeTur.Teste.XUnit.csproj", "{9CAC0F0A-4F67-40D7-BCCC-DDB0A8144152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F22D257-AAA8-488C-873F-2761768690CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F22D257-AAA8-488C-873F-2761768690CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F22D257-AAA8-488C-873F-2761768690CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F22D257-AAA8-488C-873F-2761768690CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC65468-2041-4C15-AD0C-8AFF89915C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC65468-2041-4C15-AD0C-8AFF89915C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC65468-2041-4C15-AD0C-8AFF89915C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC65468-2041-4C15-AD0C-8AFF89915C86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591FBA92-FF79-4308-9AF4-F0BF4A346901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591FBA92-FF79-4308-9AF4-F0BF4A346901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591FBA92-FF79-4308-9AF4-F0BF4A346901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591FBA92-FF79-4308-9AF4-F0BF4A346901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CAC0F0A-4F67-40D7-BCCC-DDB0A8144152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAC0F0A-4F67-40D7-BCCC-DDB0A8144152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAC0F0A-4F67-40D7-BCCC-DDB0A8144152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAC0F0A-4F67-40D7-BCCC-DDB0A8144152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F22D257-AAA8-488C-873F-2761768690CC} = {31B5F18A-E794-4ACE-99CF-C42BE444F3F4}
+		{DAC65468-2041-4C15-AD0C-8AFF89915C86} = {FFEF8C2A-CAA1-4242-8B31-3DAE90B8D0AF}
+		{591FBA92-FF79-4308-9AF4-F0BF4A346901} = {2E37E5E4-20B5-4660-BD7E-C53D5E5AE04A}
+		{9CAC0F0A-4F67-40D7-BCCC-DDB0A8144152} = {55CCC16C-2D98-4048-8CBD-A480ADE92E1C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555DD6AD-B77F-425D-B1DA-35249F183C95}
+	EndGlobalSection
+EndGlobal
