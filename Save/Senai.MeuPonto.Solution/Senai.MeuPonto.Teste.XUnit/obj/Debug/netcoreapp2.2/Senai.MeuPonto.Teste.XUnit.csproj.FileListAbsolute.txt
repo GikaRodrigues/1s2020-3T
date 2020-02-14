@@ -1,0 +1,14 @@
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.AssemblyInfo.cs
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.deps.json
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.runtimeconfig.json
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.runtimeconfig.dev.json
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.dll
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\Senai.MeuPonto.WebApi.dll
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\bin\Debug\netcoreapp2.2\Senai.MeuPonto.WebApi.pdb
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Teste.XUnit\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Teste.XUnit.csproj.CopyComplete
