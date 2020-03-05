@@ -3,13 +3,8 @@ using System.Collections.Generic;
 
 namespace Senai.MeuPonto.WebApi.Domains
 {
-    public partial class Usuarios
+    public class Usuarios
     {
-        public Usuarios()
-        {
-            Pontos = new HashSet<Pontos>();
-        }
-
         public int IdUsuario { get; set; }
         public string Ni { get; set; }
         public string Nome { get; set; }
@@ -17,7 +12,14 @@ namespace Senai.MeuPonto.WebApi.Domains
         public string Email { get; set; }
         public string Senha { get; set; }
         public string Tipo { get; set; }
+        public bool? Ativo { get; set; }
+
 
         public ICollection<Pontos> Pontos { get; set; }
+
+        public Usuarios()
+        {
+            Pontos = new HashSet<Pontos>();
+        }
     }
 }

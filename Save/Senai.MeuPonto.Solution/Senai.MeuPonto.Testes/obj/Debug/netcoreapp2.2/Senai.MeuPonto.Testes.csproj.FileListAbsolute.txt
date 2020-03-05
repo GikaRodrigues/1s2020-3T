@@ -1,0 +1,4 @@
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Testes\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Testes.csprojAssemblyReference.cache
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Testes\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Testes.csproj.CoreCompileInputs.cache
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Testes\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Testes.AssemblyInfoInputs.cache
+C:\Users\38850490828\Documents\Senai\1s2020-3T\Projeto Ponto\BackEnd\Senai.MeuPonto.Solution\Senai.MeuPonto.Testes\obj\Debug\netcoreapp2.2\Senai.MeuPonto.Testes.AssemblyInfo.cs

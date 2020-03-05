@@ -1,4 +1,5 @@
-﻿using Senai.MeuPonto.WebApi.Domains;
+﻿using Microsoft.EntityFrameworkCore;
+using Senai.MeuPonto.WebApi.Domains;
 using Senai.MeuPonto.WebApi.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -22,7 +23,7 @@ namespace Senai.MeuPonto.WebApi.Repositorios
         {
             using(PontoContext ctx = new PontoContext())
             {
-                return ctx.Pontos.ToList();
+                return ctx.Pontos.Include(x => x.IdUsuarioNavigation).ToList();
             }
         }
     }

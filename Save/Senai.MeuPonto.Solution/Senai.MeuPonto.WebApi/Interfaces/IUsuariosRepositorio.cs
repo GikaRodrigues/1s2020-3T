@@ -11,5 +11,13 @@ namespace Senai.MeuPonto.WebApi.Interfaces
     {
         Usuarios EfetuarLogin(LoginViewModel login);
         void Cadastrar(Usuarios usuario);
+        List<Usuarios> ListarUsuarios();
+        void Deletar(int id);
+        //List<Usuarios> AtivarUsuarios(int id, bool ativar);
+        List<Usuarios> ListarPendentes();
+
+        List<Usuarios> ListarAtivos();
+
     }
 }
+
